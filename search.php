@@ -93,7 +93,7 @@
           <li><a class="icon-3" href="#"></a></li>
           <li><a class="icon-4" href="#"></a></li>
         </ul>
-    <div class="privacy pull-left">&copy; 2013 | Dzyngiri : Online Design Magazine | Bootstrap | Demo Illustrations by Justin Mezzell</div>
+    <div class="privacy pull-left">2017 Algarret Studio</div>
   </div>
     </footer>
 <script type="text/javascript" src="js/bootstrap.js"></script>
